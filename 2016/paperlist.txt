@@ -1,0 +1,61 @@
+1 Min Chen, Y. Qian, S. Mao, W. Tang, X. Yang, "Software-Defined Mobile Networks Security",ACM/Springer Mobile Networks and Applications, DOI: 10.1007/s11036-015-0665-5, 2016. [LocalPDF]
+
+2 Y. Zhang, Min Chen*, D. Huang, D. Wu, Y. Li, "iDoctor: Personalized and Professionalized Medical Recommendations Based on Hybrid Matrix Factorization", Future Generation Computer Systems, DOI:10.1016/j.future.2015.12.001, 2016.
+
+3 H. Zhao, Min Chen, M. Qiu, K. Gai, M. Liu, "A Novel Pre-cache Schema for High Performance Android System", Future Generation Computer Systems, Vol. 56, pp. 766-772, Mar. 2016. （JCR一区期刊，影响因子2.639）
+
+4 W. Ji, Y. Chen, Min Chen, B. Chen, Y. Chen, S. Kung, "Profit Maximization through Online Advertising Scheduling for A Wireless Video Broadcast Network", IEEE Transaction on Mobile Computing, DOI: 10.1109/TMC.2015.2485984, 2015.
+
+5 T. Taleb, A. Ksentini, Min Chen, R. Jantti, "Coping with Emerging Mobile Social Media Applications through Dynamic Service Function Chaining", IEEE Trans. Wireless Communications, DOI: 10.1109/TWC.2015.2512274, 2015.
+
+6 Z. Sheng, C. Mahapatra, V. Leung, Min Chen, P. Sahu, "Energy Efficient Cooperative Computing in Mobile Wireless Sensor Networks", IEEE Trans. on Cloud Computing, DOI: 10.1109/TCC.2015.2458272, 2015.
+
+7 W. Sha, Y. Zhu, Min Chen, T. Huang, "Statistical Learning for Anomaly Detection in Cloud Server Systems: A Multi-Order Markov Chain Framework", IEEE Trans. on Cloud Computing,DOI: 10.1109/TCC.2015.2415813, 2015.
+
+8 J. He, D. Wu, X. Xie, Min Chen, Y. Li, "Efficient Upstream Bandwidth Multiplexing for Cloud Video Recording Services", IEEE Trans. on Circuits and Systems for Video Technology, DOI: 10.1109/TCSVT.2015.2475875, 2015.（JCR一区期刊 2.259）
+
+9 C. Liu, Z. Zhang, Min Chen, "Personalized Multimedia Recommendations for Cloud-Integrated Cyber-Physical Systems", IEEE System Journal, DOI:10.1109/JSYST.2015.2440431, 2015.
+
+10 Y. Niu, Y. Li, Min Chen, D. Jin, S. Chen, "A Cross-Layer Design for Software Defined Millimeter-Wave Mobile Broadband System", IEEE Communications, Vol. 54, No. 2, pp. 124-130, 2016.
+
+11 S. Kim, D. Kang, W. Kim, Min Chen, C. Youn, "A Science Gateway Cloud with Cost Adaptive VM Management Scheme for Computational Scientific Applications", IEEE System Journal, DOI: 10.1109/JSYST.2015.2501750, 2016.
+
+12 W. Tang, F. Chen, Min Chen*, G. Liu, "Flow Scheduling in OBS Networks Based on Software-Defined Networking Control Plane", KSII Transactions on Internet and Information Systems, Vol. 10, No. 1, pp. 1-17, Jan. 2016.
+
+13 X. Hou, Y. Li, Min Chen, D. Wu, D. Jin, S. Chen, "Vehicular Fog Computing: A Viewpoint of Vehicles As the Infrastructures", DOI: 10.1109/TVT.2016.2532863, 2016.
+
+14 Y. Li, Min Chen, W. Dai, M. Qiu, "Energy Optimization With Dynamic Task Scheduling Mobile Cloud Computing", IEEE System Journal, DOI: 10.1109/JSYST.2015.2442994, 2015.
+
+15 Y. Hu, Min Chen, "Information Diffusion Prediction in Mobile Social Networks with Hydrodynamic Model", IEEE ICC 2016, Kuala Lumpur, Malaysia, May 23-27, 2016.（会议）
+
+16 F. Xu, Y. Li, Min Chen, S. Chen, "Mobile Cellular Big Data: Linking Cyberspace and Physical World with Social Ecology", IEEE Network, Vol. 30, No. 3, pp. 6-12, 2016.
+
+17 Y. Zheng, D. Wu, Y. Ke, C. Yang, Min Chen, G. Zhang, "Online Cloud Transcoding and Distribution for Crowdsourced Live Game Video Streaming", IEEE Trans. on Circuits and Systems for Video Technology, DOI: 10.1109/TCSVT.2016.2556584, 2016.
+
+18 Min Chen, Y. Zhang, et al., "TOLA: Topic-Oriented Learning Assistant Based on Cyber-Physical System and Big Data", Future Generation Computer Systems, minor revision, 2016.
+
+19 C. Tsai, M. Chiang, A. Ksentini, Min Chen, "Metaheuristic Algorithms for Healthcare: Open Issues and Challenges", Computers & Electrical Engineering, DOI: 10.1016/j.compeleceng. 2016.03.005, Mar. 2016.
+
+20 Y. Sun, Min Chen*, A. Bacchus, X. Lin, "Towards Collusion-attack-resilient Group Key Management Using One-way Function Tree", Computer Network, Vol. 104, pp. 16-26, July 2016.
+
+21 Y. Sun, Min Chen*, "ASA: Against Statistical Attacks for Privacy-aware Users in Location Based Service", Future Generation Computer Systems, minor revision, 2016.
+
+22 Min Chen, Y. Hao, D. Wu, Y. Li, K. Hwang, "Opportunistic Workflow Scheduling over Co-Located Clouds in Mobile Environment", IEEE Trans. Service Computing, in revision, 2016.
+
+23 Min Chen, Y. Ma, Y. Hao, Y. Li, D. Wu, Y. Zhang, E. Song, "CP-Robot: Cloud-assisted Pillow Robot for Emotion Sensing and Interaction", Industrialiot 2016, Guangzhou, China, Mar. 2016. (Best Paper Award)
+
+24 Y. Sun, Min Chen, "NCKC: Non-Code-aided Key Calculation for Group Key Management", IEEE IWCMC 2016, accepted, 2016.
+
+25 Min Chen, Y. Qian, K. Hwang, J. Song, S. Mao, "Privacy Protection and Intrusion Avoidance for Cloudlet-based Medical Data Sharing", IEEE Trans. Cloud Computing, in revision, 2016.
+
+26 Min Chen, J. Wang, C. Lai, D. Wu, J. Wan, L. Peng, C. Youn, " Multipath Planning based Transmissions for IoT Multimedia Sensing", IEEE IWCMC, Greece, Sep. 2016.
+
+29 K. Lai, Min Chen, J. Deng, M. Hassan, G. Fortino, "Enhanced Fingerprinting and Trajectory Prediction for IoT Localization in Smart Buildings", IEEE Transactions on Automation Science and Engineering, DOI: 10.1109/TASE.2016.2543242, 2016.
+
+30 G. Gao, C. Liu, Min Chen, S. Guo, K. Leung, "Cloud-based Actor Identification with Batch-Orthogonal Local-Sensitive Hashing and Sparse Representation", IEEE Transactions on Multimedia, 2016
+
+31 Min Chen, Y. Hao, M. Qiu, D. Wu, I. Humar, "Mobility-aware Caching and Computation Offloading in 5G Ultradense Cellular Networks", Sensors, to appear, 2016.
+
+32 Min Chen, Y. Ma, J. Song, C. Lai, B. Hu, "Smart Clothing: Connecting Human with Clouds and Big Data for Sustainable Health Monitoring", ACM/Springer Mobile Networks and Applications, DOI: 10.1007/s11036-016-0743-3, 2016.
+
+33 Min Chen, Y. Hao, et al., "Disease Prediction by Machine Learning over Big Healthcare Data",Scientific Report, in revision, 2016.

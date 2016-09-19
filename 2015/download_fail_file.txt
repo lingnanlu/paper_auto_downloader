@@ -1,0 +1,1 @@
+[order='1', orderOfMinChen=4, year='2016', pressName='IEEE System Journal', pressNameAbbr='ISJ', title='A Science Gateway Cloud with Cost Adaptive VM Management Scheme for Computational Scientific Applications']

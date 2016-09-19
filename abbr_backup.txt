@@ -1,0 +1,58 @@
+3rd IEEE International Conference on Mobile Cloud Computing,ICMCC
+ACM CFI 2014,CFI
+ACM Mobihoc 2015,Mobihoc
+ACM/Springer Mobile Networks and Applications,MONET
+Cloudcomp 2014,null
+Computer Network,CN
+Computers & Electrical Engineering,CEE
+Future Generation Computer Systems,FGCS
+Green Communications: Principles,GCPCP
+IEEE 12th International Conference on Mobile Ad Hoc and Sensor Systems,MASS
+IEEE 4th International Conference on Mobile Services,MS
+IEEE Access,null
+IEEE Communications,IEEE Commun. Mag
+IEEE Communications Magazine,IEEE Commun. Mag
+IEEE Communications Surveys and Tutorials,Commun. Surveys Tuts
+IEEE ICC 2013,ICC
+IEEE ICC 2014,ICC
+IEEE ICC 2015,ICC
+IEEE ICC 2016,ICC
+IEEE INFOCOM 2014
+IEEE IWCMC,IWCMC
+IEEE IWCMC 2016,IWCMC
+IEEE Internet Computing,Internet Comput
+IEEE Network,NT
+IEEE System Journal,SJ
+IEEE Systems Journal,SJ
+IEEE Trans. Cloud Computing,CC
+IEEE Trans. Service Computing,SC
+IEEE Trans. Wireless Communications,WC
+IEEE Trans. on Circuits and Systems for Video Technology,CSVT
+IEEE Trans. on Cloud Computing,CC
+IEEE Transaction on Mobile Computing,MC
+IEEE Transactions on Automation Science and Engineering,ASE
+IEEE Transactions on Broadcasting,BC
+IEEE Transactions on Emerging Topics in Computing,ETC
+IEEE Transactions on Industrial Informatics,II
+IEEE Transactions on Information Technology in Biomedicine,ITB
+IEEE Transactions on Multimedia,MM
+IEEE Transactions on Vehicular Technology,VT
+IEEE Wireless Communications,WC
+IEEE Wireless Communications Magazine,WC
+In the IEEE Global Communication Conference,GLOBECOM
+Industrialiot 2016,null
+Information Sciences
+Journal of Internet Technology,JIT
+Journal of Network and Computer Applications,JNCA
+KSII Transactions on Internet and Information Systems,KSII T Internet Info
+MMTC E-Letter,MMTC
+Microprocessors and Microsystems,MICROPROCESS MICROSY
+QShine 2014,null
+Scientific Report,SR
+Sensors,null
+SpringerBriefs in Computer Science,SBCS
+Sydney,null
+The 17th ACM International Conference on Modeling,AICM
+Vehicular Communications,VC
+Wireless Communications and Mobile Computing,WCMC
+华中科技大学出版社,null

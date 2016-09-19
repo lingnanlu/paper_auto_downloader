@@ -1,0 +1,22 @@
+2015	4	MC	3	Profit Maximization through Online Advertising Scheduling for A Wireless Video Broadcast Network
+2015	5	WC	3	Coping with Emerging Mobile Social Media Applications through Dynamic Service Function Chaining
+2015	8	CSVT	4	Efficient Upstream Bandwidth Multiplexing for Cloud Video Recording Services
+2015	9	SJ	3	Personalized Multimedia Recommendations for Cloud-Integrated Cyber-Physical Systems
+2016	11	SJ	4	A Science Gateway Cloud with Cost Adaptive VM Management Scheme for Computational Scientific Applications
+2016	13	null	3	Vehicular Fog Computing: A Viewpoint of Vehicles As the Infrastructures
+2015	14	SJ	2	Energy Optimization With Dynamic Task Scheduling Mobile Cloud Computing
+2016	15	ICC	2	Information Diffusion Prediction in Mobile Social Networks with Hydrodynamic Model
+2016	16	NT	3	Mobile Cellular Big Data: Linking Cyberspace and Physical World with Social Ecology
+2016	17	CSVT	5	Online Cloud Transcoding and Distribution for Crowdsourced Live Game Video Streaming
+2016	18	FGCS	1	TOLA: Topic-Oriented Learning Assistant Based on Cyber-Physical System and Big Data
+2016	21	FGCS	2	ASA: Against Statistical Attacks for Privacy-aware Users in Location Based Service
+2016	22	SC	1	Opportunistic Workflow Scheduling over Co-Located Clouds in Mobile Environment
+2016	23	null	1	CP-Robot: Cloud-assisted Pillow Robot for Emotion Sensing and Interaction
+2016	24	IWCMC	2	NCKC: Non-Code-aided Key Calculation for Group Key Management
+2016	25	CC	1	Privacy Protection and Intrusion Avoidance for Cloudlet-based Medical Data Sharing
+2016	26	IWCMC	1	 Multipath Planning based Transmissions for IoT Multimedia Sensing
+2016	29	ASE	2	Enhanced Fingerprinting and Trajectory Prediction for IoT Localization in Smart Buildings
+2016	30	MM	3	Cloud-based Actor Identification with Batch-Orthogonal Local-Sensitive Hashing and Sparse Representation
+2016	31	null	1	Mobility-aware Caching and Computation Offloading in 5G Ultradense Cellular Networks
+2016	32	MONET	1	Smart Clothing: Connecting Human with Clouds and Big Data for Sustainable Health Monitoring
+2016	33	SR	1	Disease Prediction by Machine Learning over Big Healthcare Data

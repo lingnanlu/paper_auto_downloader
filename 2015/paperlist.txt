@@ -1,0 +1,53 @@
+1 Min Chen, X. Wang, J. Wang, D. Wu, Y. Li, "KCN : Guaranteed Delivery via K-Cooperative-Nodes in Duty-Cycled Sensor Networks", IEEE 12th International Conference on Mobile Ad Hoc and Sensor Systems, pp. 449-451, Oct. 2015.
+
+2 Min Chen, Y. Hao, Y. Li, D. Wu, D. Huang, "Demo: LIVES: Learning through Interactive Video and Emotion-aware System", ACM Mobihoc 2015, Hangzhou, June 22-25, 2015.（会议Demo）
+
+3 Min Chen, Y. Zhang, Y. Li, M. Hassan, A. Alamri, "AIWAC: Affective Interaction through WearAble Computing and Cloud Technology", IEEE Wireless Communications Magazine, Vol. 22, No. 1, pp. 20-27, Feb. 2015.（JCR一区期刊，影响因子6.524）
+
+4 Min Chen, Y. Hao, Y. Li, C. Lai, D. Wu, "On The Computation Offloading at Ad Hoc Cloudlet: Architecture and Service Models", IEEE Communications, Vol. 53, No. 6, pp. 18-24, June 2015.（JCR一区期刊，影响因子4.446）
+
+5 Min Chen, Y. Zhang, Y. Li, S. Mao, V. Leung, "EMC: Emotion-aware Mobile Cloud Computing in 5G", IEEE Network, Vol. 29, No. 2, pp. 32-38, Mar. 2015.（JCR一区期刊，影响因子3.720）
+
+6 H. Tian, D. Wu, J. He, Y. Xu, Min Chen, "On Achieving Cost-Effective Adaptive Cloud Gaming in Geo-distributed Data Centers", IEEE Trans. on Circuits and Systems for Video Technology, Vol. 25, No. 12, pp. 2064-2077, 2015.（JCR一区期刊 2.259）
+
+7 Min Chen, Y. Zhang, L. Hu, T. Taleb, Z. Sheng, "Cloud-based Wireless Network: Virtualized, Reconfigurable, Smart Wireless Network to Enable 5G Technologies", ACM/Springer Mobile Networks and Applications, Vol. 20, No. 6, pp. 704-712, Dec. 2015. （JCR二区期刊，影响因子1.496）
+
+8 I. Son, S. Mao, Y. Li, Min Chen, M. Gong, and Theodore (Ted) S. Rappaport, "Frame-based medium access control for 5G wireless networks", ACM/Springer Mobile Networks and Applications, Vol. 20, No. 6, pp. 763-772, Dec. 2015. (Popular Content of this publication, as of Jan 30, 2015) （JCR二区期刊，影响因子1.496）
+
+9 Y. Sun, Min Chen, L. Peng, M. Hassan, A. Alelaiwi, "MatrixDCN: a high performance network architecture for large-scale cloud data centers", Wireless Communications and Mobile Computing, DOI: 10.1002/wcm.2579, Feb. 2015. （JCR二区期刊，影响因子1.291）
+
+10 D. Zhang, S. Zhang, L. Yang, Min Chen, Y. Wang, H. Liu "NextMe: Localization Using Cellular Traces in Internet of Things", IEEE Transactions on Industrial Informatics, Vol. 11, No. 2, pp. 302-312, 2015.（JCR一区期刊，影响因子8.785)
+
+11 J. Zhao, C. Liu, Min Chen, X. Liu, K. Leung, "Energy-Efficient Dynamic Event Detection by Participatory Sensing", IEEE ICC 2015, UK London, UK, pp. 3180-3185, June 8-12, 2015.（会议）
+
+12 Z. Sanaei, S. Abolfazli, A. Gani, Min Chen, "HMCC: A Hybrid Mobile Cloud Computing Framework Exploiting Heterogeneous Resources", 3rd IEEE International Conference on Mobile Cloud Computing, Services, and Engineering (IEEE Mobile Cloud 2015), San Francisco, USA, Mar.30-Apr.3, 2015.（会议）
+
+13 X. Wang, Min Chen, H. Kim, T. Kwon, Y. Choi, S. Choi, "Measurement and analysis of online gaming services on mobile WiMAX networks", Wireless Communications and Mobile Computing, Vol. 15, No. 7, pp. 1198-1211, May 2015. （JCR二区期刊，影响因子1.291）
+
+14 I. Humar, X. Ge, L. Xiang, J. Ho, Min Chen, "Chapter – Embodied Energy of Communication Devices", Green Communications: Principles, Concepts and Practice, edited by K. Samdanis et al., John Wiley & Sons, ISBN: 978-1-118-75926-4, Aug. 2015.
+
+15 H. Wu, D. Huang, Min Chen, "POEM: On Establishing A Personal On-demand Execution Environment for Mobile Cloud Applications", IEEE 4th International Conference on Mobile Services, New York, USA, June 27-July 2, 2015. （会议）
+
+16 H. Tian, D. Wu, J. He, Y. Xu, Min Chen, "Toward Cost-Effective Mobile Video Streaming via Smart Cache With Adaptive Thresholding", IEEE Transactions on Broadcasting, Vol. 61, No. 4, pp. 639-650, 2015.
+
+17 J. Liu, Y. Li, Min Chen, W. Dong, D. Jin, "Software-Defined Internet of Things for Smart Urban Sensing", IEEE Communications, Vol. 53, No. 9, pp. 55-63, 2015.
+
+18 T. Duong, L. Shu, Min Chen, V. Bao, D. Ha, "Performance analysis of cooperative spatial multiplexing networks with AF/DF relaying and linear receiver over Rayleigh fading channels",Wireless Communications and Mobile Computing, Vol. 15, No. 3, pp. 500-509, Feb. 2015.
+
+19 X. Guan, Min Chen, T. Ohtsuki, "Non-cooperative gameb-ased packet ferry forwarding for sparse mobile wireless networks", Wireless Communications and Mobile Computing, Vol. 15, No. 12, pp. 1633-1648, Aug. 2015.
+
+20 Y. Li, Min Chen, "Software-Defined Network Function Virtualization: A Survey", IEEE Access, Vol. 3, pp. 2542-2553, 2015. [LocalPDF]
+
+21 Y. Ma, C. Liu, M. Alhussein, Y. Zhang, Min Chen*, "LTE-based humanoid robotics system",Microprocessors and Microsystems, Vol. 39, No. 8, pp. 1279-1284, Nov. 2015.
+
+22 Min Chen, E. Song, W. Fan, J. Wang, Y. Liu, N. Pan, "An Interactive Hugtive Robot, 一种互动抱枕机器人", 发明专利, 已授权，专利号：ZL 2013 1 0323789.X 专利申请日: 2013年7月30日，专利公告日: 2015年9月23日
+
+23 Min Chen, D. Zhang, Y. Zhang, K. Qi, "大数据浪潮", 华中科技大学出版社, ISBN 978-7-5680-1270-6, Oct. 2015. "Big Data Inspiration", Huazhong University of Science and Technology Press,ISBN 978-7-5680-1270-6, 2015.
+
+24 Min Chen, "OPNET物联网仿真", 华中科技大学出版社, ISBN 978-7-5609-9510-6, 2015. 湖北省社会公益出版基金资助项目.（著作）[LocalPDF] M. Chen, "OPNET IoT Simulation", Huazhong University of Science and Technology Press, ISBN 978-7-5609-9510-6, 2015.
+
+25 Y. Zhang, Min Chen, "Smart and Interactive Mobile Healthcare Assisted by Big Data ", MMTC E-Letter, Vol.10, No.2, March 2015.
+
+26 Min Chen, "Guest Editorial: Mobile Cloud Computing: Emerging Research Advances, Prospects, and Challenges", Journal of Internet Technology, Vol. 16 No. 2, March 2015.
+
+27 Y. Li, F. Zheng, Min Chen, D. Jin, "A Unified Control and Optimization Framework for Dynamical Service Chaining in Software-Defined NFV System", IEEE Wireless Communications, Vol. 22, No. 6, pp. 15-23, Dec. 2015.

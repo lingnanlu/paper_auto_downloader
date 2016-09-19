@@ -1,0 +1,8 @@
+2014	1	WC	2	Mobility Prediction in Telecom Cloud Using Mobile Calls
+2014	2	WC	2	Mobile Traffic Offloading by Exploiting Social Network Services and Leveraging Opportunistic Device-to-Device Sharing
+2014	4	IEEE Commun. Mag	2	Cache In The Air: Enabling the Green Multimedia Caching and Delivery for the 5G Network
+2014	11	ITB	2	Collaborative Computing Framework of Cloud Network and WBSN Applied Falling Detection and Body Reconstruction
+2014	26	ICC	2	A Markov Decision Process-based Service Migration Procedure for Follow Me Cloud
+2014	28	null	4	COMER: ClOud-based MEdicine Recommendation
+2014	30	GLOBECOM	2	Capacity Analysis for Urban Vehicular Ad Hoc Networks with Graph-Theory Based Construction
+2014	32	ICC	0	A Markov Decision Process-based Service Migration Procedure for Follow Me Cloud

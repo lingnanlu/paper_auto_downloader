@@ -1,0 +1,71 @@
+1 D. Zhang, Min Chen, M. Guizani, H. Xiong, D. Zhang, "Mobility Prediction in Telecom Cloud Using Mobile Calls", IEEE Wireless Communications Magazine, Vol. 21, No. 1, pp. 26-32, Feb. 2014.（JCR一区期刊，影响因子6.524）
+
+2 X. Wang, Min Chen, T. kwon, L. Jin, V. Leung, "Mobile Traffic Offloading by Exploiting Social Network Services and Leveraging Opportunistic Device-to-Device Sharing", IEEE Wireless Communications, Vol. 21, No. 3, pp. 28-36, 2014. （JCR一区期刊，影响因子6.524）
+
+3 Min Chen, J. Wan, S. Gonzalez, X. Liao, V. Leung, "A Survey of Recent Developments in Home M2M Networks", IEEE Communications Surveys and Tutorials, Vol. 16, No. 1, pp. 98-114, Feb. 2014.（JCR一区期刊，影响因子6.490）
+
+4 X. Wang, Min Chen*, T. Taleb, A. Ksentini, V. Leung, "Cache In The Air: Enabling the Green Multimedia Caching and Delivery for the 5G Network", IEEE Communications Magazine, Vol. 52, No. 2, Feb. 2014.(JCR一区期刊，影响因子4.460)
+
+5 H. Wang, S. Wu, Min Chen, W. Wang, "Security Protection between Users and the Mobile Media Cloud", IEEE Communications Magazine, Vol. 52, No. 3, pp. 73-79, Mar. 2014. （JCR一区期刊，影响因子4.460）
+
+6 Min Chen, "NDNC-BAN: Supporting Rich Media Healthcare Services via Named Data Networking in Cloud-assisted Wireless Body Area Networks", Information Sciences, Vol. 284, No. 10, pp. 142-156, Nov. 2014.（JCR一区期刊，影响因子3.893）
+
+7 Y. Zhang, Min Chen, S. Mao, L. Hu, V. Leung, "CAP: Crowd Activity Prediction Based on Big Data Analysis", IEEE Network, Vol. 28, No. 4, pp. 52-57, July 2014 .（JCR一区期刊，影响因子3.720）
+
+8 V. Leung, T. Taleb, Min Chen, T. Magedanz, L. Wang, R. Tafazolli, "Unveiling 5G Wireless Networks: Emerging Research Advances, Prospects, and Challenges", IEEE Network, Vol. 28, No. 6, pp. 3-5, Nov. 2014. （JCR一区期刊，影响因子3.720）
+
+9 X. Ge, X. Huang, Y. Wang, Min Chen, Q. Li, T. Han, C. Wang, "Energy Efficiency Optimization for MIMO-OFDM Mobile Multimedia Communications Systems with QoS Constraints", IEEE Transactions on Vehicular Technology, Vol. 63, No. 5, pp. 2127-2138, 2014.（JCR一区期刊，影响因子2.642）
+
+10 O. Yurur, C. Liu, C. Perara, Min Chen, X. Liu, W. Moreno, "Energy-Efficient and Context-Aware Smartphone Sensor Employment", IEEE Transactions on Vehicular Technology,10.1109/TVT.2014.2364619, 2014.（JCR一区期刊，影响因子2.642）
+
+11 C. Lai, Min Chen, J. Pan, C. Youn, H. Chao, "Collaborative Computing Framework of Cloud Network and WBSN Applied Falling Detection and Body Reconstruction", IEEE Transactions on Information Technology in Biomedicine, Vol. 18, No. 2, pp. 457-466, 2014.（JCR一区期刊，影响因子2.072）
+
+12 W. Cai, Min Chen, V. Leung, "Towards Gaming as a Service", IEEE Internet Computing, Vol. 18, No. 3, pp. 12-18, May-June 2014.（JCR一区期刊，影响因子2.000）
+
+13 X. Wang, Min Chen, T. Kwon, L. Yang, V. Leung, "AMES-Cloud: A Framework of Adaptive Mobile Video Streaming and Efficient Social Video Sharing in the Clouds", IEEE Transactions on Multimedia, Vol. 15, No. 4, pp. 811-820, June 2013. （JCR一区期刊，影响因子1.776）
+
+14 P. Nevesa, J. Rodrigues, Min Chen, "A multi-channel architecture for IPv6-enabled wireless sensor and actuator networks featuring PnP support", Journal of Network and Computer Applications, Vol. 37, pp. 12–24, Jan. 2014. （JCR一区期刊，影响因子1.772）
+
+15 X. Wang, Min Chen, "PreFeed: Cloud-Based Content Prefetching of Feed Subscriptions for Mobile Users", IEEE Systems Journal, Vol. 8, No. 1, pp. 202-207, Mar. 2014.（JCR一区期刊，影响因子1.746）
+
+16 C. Perera, C. Liu, S. Jayawardena, Min Chen, "A Survey on Internet of Things From Industrial Market Perspective", IEEE Access, Vol. 2, pp. 1660-1679, 2014.
+
+17 Min Chen, V. Leung, X. Lai, "5G Wireless Technologies: Perspectives on the Next Generation of Mobile Communications and Networking", IEEE Access, Vol. 1, No. 1, pp. 1-3, Dec. 2014.
+
+18 Min Chen, S. Mao, Y. Liu, "Big Data: A Survey", ACM/Springer Mobile Networks and Applications, Vol. 19, No. 2, pp. 171-209, April 2014. （期刊）
+
+19 Min Chen, D. Mau, Y. Zhang, T. Taleb, V. Leung, "VENDNET: VEhicular Named Data NETwork", Vehicular Communications, Vol. 1, No. 4, pp. 208-213, Oct. 2014.（期刊）
+
+20 Min Chen, Y. Zhang, L. Hu, T. Taleb, Z. Sheng, " Cloud-based Wireless Network: Virtualized, Reconfigurable, Smart Wireless Network to Enable 5G Technologies ",ACM/Springer Mobile Networks and Applications, DOI:10.1007/s11036-015-0590-7, 2015.（期刊）
+
+21 D.Zhang, C. Hsu, Min Chen, J. Lloret, "Cold-start Recommendation Using Bi-clustering and Fusion For Large-scale Social Recommender Systems", IEEE Transactions on Emerging Topics in Computing, Vol. 2, No. 2, pp. 239-250, June 2014.（期刊）
+
+22 Min Chen, V. Leung, X. Lai, "5G Wireless Technologies: Perspectives on the Next Generation of Mobile Communications and Networking", IEEE Access, Vol. 1, No. 1, pp. 1-3, Dec. 2014.（期刊）
+
+23 C. Perera, C. Liu, S. Jayawardena, Min Chen, "A Survey on Internet of Things From Industrial Market Perspective", IEEE Access, Vol. 2, No.1, pp. 1660-1679, 2014.（期刊）
+
+24 X. Wang, Min Chen, Z. Han, D. Wu, T. Kwon, "TOSS: Traffic Offloading by Social Network Service-Based Opportunistic Sharing in Mobile Social Networks", IEEE INFOCOM 2014, Toronto, Canada Apr. 27-May 2, 2014.（会议）
+
+25 W. Cai, Min Chen, C. Zhou, V. Leung, H. Chan, "Resource Management for Cognitive Cloud Gaming", Sydney, Australia, June 10-14, 2014.（会议）
+
+26 Tarik Taleb; Adlen Ksentini, Min Chen, "A Markov Decision Process-based Service Migration Procedure for Follow Me Cloud", IEEE ICC 2014, Sydney; Australia; June 10-14, 2014. （会议）
+
+27 X. Wang, Min Chen, Z. Han, D. Wu, T. Kwon, "TOSS: Traffic Offloading by Social Network Service-Based Opportunistic Sharing in Mobile Social Networks", IEEE INFOCOM 2014, Toronto, Canada Apr. 27-May 2, 2014. （会议）
+
+28 Y. Zhang, L. Wang, X. Wang, Min Chen, "COMER: ClOud-based MEdicine Recommendation", QShine 2014, Rhodes, Greece, Aug. 18-19, 2014. （会议）
+
+29 D. Mau, Min Chen, T. Taleb, X. Wang, V. Leung, "FGPC: Fine-Grained Popularity-based Caching Design for Content Centric Networking", The 17th ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (ACM MSWiM 2014), Montreal, Canada, Sep. 21-26, 2014. （会议）
+
+30 Y. Huang, Min Chen, Z. Cai, X. Guan, C. Liu, T. Ohtsuki, "Capacity Analysis for Urban Vehicular Ad Hoc Networks with Graph-Theory Based Construction", In the IEEE Global Communication Conference, Huston, Texas, USA, December 8-12, 2014. （会议）
+
+31 W. Cai, Min Chen, C. Zhou, V. Leung, H. Chan, "Resource Management for Cognitive Cloud Gaming", IEEE ICC 2013, Sydney, Australia, June 2014. （会议）
+
+32 T. Taleb, A. Ksentini, "A Markov Decision Process-based Service Migration Procedure for Follow Me Cloud", IEEE ICC 2013, Sydney, Australia, June 2014. （会议）
+
+33 B. Han, X. Wang, X. Chen, T. Kwon, Y. Choi, D. Mau, Min Chen, "PPP: Prefix-based Popularity Prediction for Effective Caching in Content-Centric Networking", ACM CFI 2014, Tokyo; Japan; June 18 – 20, 2014. （会议）
+
+34 X. Wang, Min Chen, Z. Han, D. Wu, T. Kwon, "TOSS: Traffic Offloading by Social Network Service-Based Opportunistic Sharing in Mobile Social Networks", IEEE INFOCOM 2014, Toronto, Canada Apr. 27-May 2, 2014. （会议）
+
+35 Min Chen, S. Mao, Y. Zhang, V. Leung, "Big Data: Related Technologies, Challenges and Future Prospects", SpringerBriefs in Computer Science, Springer, ISBN 978-3-319-06245-7, 2014.
+
+36 L. Liao, V. Leung, Min Chen, "Virtualizing IMS Core and Its Performance Analysis", Cloudcomp 2014, Guilin, China, Oct. 2014.
